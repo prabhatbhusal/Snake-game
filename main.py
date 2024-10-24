@@ -25,7 +25,7 @@ timmy.goto(-230,40)
 ram.goto(-230,00)
 sham.goto(-230,-40)
 tim.penup()
-
+print("Hello World")
 
 print("You lose, ")
 
