@@ -46,18 +46,7 @@ Make sure you have Python installed on your system. You can download it from [py
   # Game Over Screen
     # Shows a "Game Over" message when the player loses and displays the final score.
 
-  # Multiple Difficulty Levels
-    # Choose from different difficulty settings (easy, medium, hard), which affect the snake's speed.
-
-  # Customizable Settings
-    # Change the snake and food colors, or modify the game speed.
-
   # Wall Boundaries (Optional)
     # Option to play with wall boundaries or enable a "wrap-around" mode where the snake reappears on the opposite side.
 
-  # Pause and Resume
-    # Ability to pause the game and resume it later.
-
-  # Sound Effects (Optional)
-    # Add sound effects for when the snake eats food or the game ends.
 
