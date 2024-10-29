@@ -2,6 +2,7 @@
 from turtle import Turtle
 starting_positions=[(0,0),(-20,0),(-40,0)]
 move_distance=20
+print("Hello World")
 class Snakes:
     def __init__(self):
         self.snakes=[]
